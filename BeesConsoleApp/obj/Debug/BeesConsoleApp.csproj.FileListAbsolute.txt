@@ -1,0 +1,7 @@
+c:\users\user\Source\Repos\BeesConsoleApp\BeesConsoleApp\bin\Debug\BeesConsoleApp.exe.config
+c:\users\user\Source\Repos\BeesConsoleApp\BeesConsoleApp\bin\Debug\BeesConsoleApp.exe
+c:\users\user\Source\Repos\BeesConsoleApp\BeesConsoleApp\bin\Debug\BeesConsoleApp.pdb
+c:\users\user\Source\Repos\BeesConsoleApp\BeesConsoleApp\obj\Debug\BeesConsoleApp.csprojAssemblyReference.cache
+c:\users\user\Source\Repos\BeesConsoleApp\BeesConsoleApp\obj\Debug\BeesConsoleApp.csproj.CoreCompileInputs.cache
+c:\users\user\Source\Repos\BeesConsoleApp\BeesConsoleApp\obj\Debug\BeesConsoleApp.exe
+c:\users\user\Source\Repos\BeesConsoleApp\BeesConsoleApp\obj\Debug\BeesConsoleApp.pdb
